@@ -1,4 +1,8 @@
-## Hi there 👋
+## Diskominfo Kabupaten Karanganyar
+
+https://diskominfo.karanganyarkab.go.id
+
+Developer : https://kra.my.id
 
 <!--
 
