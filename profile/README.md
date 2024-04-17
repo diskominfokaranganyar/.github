@@ -2,8 +2,6 @@
 
 https://diskominfo.karanganyarkab.go.id
 
-Developer : https://kra.my.id
-
 <!--
 
 **Here are some ideas to get you started:**
